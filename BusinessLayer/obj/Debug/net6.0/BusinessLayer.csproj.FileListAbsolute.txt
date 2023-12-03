@@ -1,0 +1,57 @@
+F:\PearlSoft\GitHubProject\employeetimesheet\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+F:\PearlSoft\GitHubProject\employeetimesheet\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+F:\PearlSoft\GitHubProject\employeetimesheet\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+F:\PearlSoft\GitHubProject\employeetimesheet\BusinessLayer\bin\Debug\net6.0\BusinessEntities.dll
+F:\PearlSoft\GitHubProject\employeetimesheet\BusinessLayer\bin\Debug\net6.0\DataLayer.dll
+F:\PearlSoft\GitHubProject\employeetimesheet\BusinessLayer\bin\Debug\net6.0\BusinessEntities.pdb
+F:\PearlSoft\GitHubProject\employeetimesheet\BusinessLayer\bin\Debug\net6.0\DataLayer.pdb
+F:\PearlSoft\GitHubProject\employeetimesheet\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+F:\PearlSoft\GitHubProject\employeetimesheet\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\PearlSoft\GitHubProject\employeetimesheet\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+F:\PearlSoft\GitHubProject\employeetimesheet\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+F:\PearlSoft\GitHubProject\employeetimesheet\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+F:\PearlSoft\GitHubProject\employeetimesheet\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+F:\PearlSoft\GitHubProject\employeetimesheet\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+F:\PearlSoft\GitHubProject\employeetimesheet\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+F:\PearlSoft\GitHubProject\employeetimesheet\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+F:\PearlSoft\GitHubProject\employeetimesheet\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+F:\PearlSoft\GitHubProject\employeetimesheet\BusinessLayer\bin\Debug\net6.0\CommonUtilities.dll
+F:\PearlSoft\GitHubProject\employeetimesheet\BusinessLayer\bin\Debug\net6.0\CommonUtilities.pdb
+F:\PearlSoft\GitHubProject\TimeSheetNew\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+F:\PearlSoft\GitHubProject\TimeSheetNew\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+F:\PearlSoft\GitHubProject\TimeSheetNew\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+F:\PearlSoft\GitHubProject\TimeSheetNew\BusinessLayer\bin\Debug\net6.0\BusinessEntities.dll
+F:\PearlSoft\GitHubProject\TimeSheetNew\BusinessLayer\bin\Debug\net6.0\CommonUtilities.dll
+F:\PearlSoft\GitHubProject\TimeSheetNew\BusinessLayer\bin\Debug\net6.0\DataLayer.dll
+F:\PearlSoft\GitHubProject\TimeSheetNew\BusinessLayer\bin\Debug\net6.0\BusinessEntities.pdb
+F:\PearlSoft\GitHubProject\TimeSheetNew\BusinessLayer\bin\Debug\net6.0\DataLayer.pdb
+F:\PearlSoft\GitHubProject\TimeSheetNew\BusinessLayer\bin\Debug\net6.0\CommonUtilities.pdb
+F:\PearlSoft\GitHubProject\TimeSheetNew\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+F:\PearlSoft\GitHubProject\TimeSheetNew\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\PearlSoft\GitHubProject\TimeSheetNew\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+F:\PearlSoft\GitHubProject\TimeSheetNew\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+F:\PearlSoft\GitHubProject\TimeSheetNew\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+F:\PearlSoft\GitHubProject\TimeSheetNew\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+F:\PearlSoft\GitHubProject\TimeSheetNew\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+F:\PearlSoft\GitHubProject\TimeSheetNew\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+F:\PearlSoft\GitHubProject\TimeSheetNew\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+F:\PearlSoft\GitHubProject\TimeSheetNew\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+F:\New folder (2)\New folder\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+F:\New folder (2)\New folder\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\New folder (2)\New folder\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+F:\New folder (2)\New folder\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+F:\New folder (2)\New folder\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+F:\New folder (2)\New folder\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+F:\New folder (2)\New folder\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+F:\New folder (2)\New folder\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+F:\New folder (2)\New folder\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+F:\New folder (2)\New folder\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+F:\New folder (2)\New folder\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+F:\New folder (2)\New folder\BusinessLayer\bin\Debug\net6.0\BusinessEntities.dll
+F:\New folder (2)\New folder\BusinessLayer\bin\Debug\net6.0\CommonUtilities.dll
+F:\New folder (2)\New folder\BusinessLayer\bin\Debug\net6.0\DataLayer.dll
+F:\New folder (2)\New folder\BusinessLayer\bin\Debug\net6.0\BusinessEntities.pdb
+F:\New folder (2)\New folder\BusinessLayer\bin\Debug\net6.0\DataLayer.pdb
+F:\New folder (2)\New folder\BusinessLayer\bin\Debug\net6.0\CommonUtilities.pdb
+F:\New folder (2)\New folder\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+F:\New folder (2)\New folder\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll

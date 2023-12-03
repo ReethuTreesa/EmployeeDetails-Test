@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "Registration Form";
+}
+
+<h2>Registration</h2>
+
+<div>
+    <label for="firstName">First Name:</label>
+    <input type="text" id="firstName" required>
+</div>
+<div>
+    <label for="lastName">Last Name:</label>
+    <input type="text" id="lastName" required>
+</div>
+<button onclick="submitForm()">Submit</button>
+
+<script>
+    function submitForm() {
+       
+        var firstName = document.getElementById('firstName').value;
+        var lastName = document.getElementById('lastName').value
+        
+        var formData = { FirstName: firstName, LastName: lastName };
+      
+        fetch('/PersonalDetails/SaveUserDetails', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify(formData)
+        })
+        .then(response => response.json())
+        
+       
+        .then(data => console.log(data))
+       
+        .catch(error => console.error('Error:', error));
+    }
+</script>
+

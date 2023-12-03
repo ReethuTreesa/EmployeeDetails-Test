@@ -1,0 +1,51 @@
+F:\PearlSoft\GitHubProject\employeetimesheet\DataLayer\bin\Debug\net6.0\DataLayer.deps.json
+F:\PearlSoft\GitHubProject\employeetimesheet\DataLayer\bin\Debug\net6.0\DataLayer.dll
+F:\PearlSoft\GitHubProject\employeetimesheet\DataLayer\bin\Debug\net6.0\DataLayer.pdb
+F:\PearlSoft\GitHubProject\employeetimesheet\DataLayer\bin\Debug\net6.0\BusinessEntities.dll
+F:\PearlSoft\GitHubProject\employeetimesheet\DataLayer\bin\Debug\net6.0\BusinessEntities.pdb
+F:\PearlSoft\GitHubProject\employeetimesheet\DataLayer\obj\Debug\net6.0\DataLayer.csproj.AssemblyReference.cache
+F:\PearlSoft\GitHubProject\employeetimesheet\DataLayer\obj\Debug\net6.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\PearlSoft\GitHubProject\employeetimesheet\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfoInputs.cache
+F:\PearlSoft\GitHubProject\employeetimesheet\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfo.cs
+F:\PearlSoft\GitHubProject\employeetimesheet\DataLayer\obj\Debug\net6.0\DataLayer.csproj.CoreCompileInputs.cache
+F:\PearlSoft\GitHubProject\employeetimesheet\DataLayer\obj\Debug\net6.0\DataLayer.csproj.CopyComplete
+F:\PearlSoft\GitHubProject\employeetimesheet\DataLayer\obj\Debug\net6.0\DataLayer.dll
+F:\PearlSoft\GitHubProject\employeetimesheet\DataLayer\obj\Debug\net6.0\refint\DataLayer.dll
+F:\PearlSoft\GitHubProject\employeetimesheet\DataLayer\obj\Debug\net6.0\DataLayer.pdb
+F:\PearlSoft\GitHubProject\employeetimesheet\DataLayer\obj\Debug\net6.0\ref\DataLayer.dll
+F:\PearlSoft\GitHubProject\employeetimesheet\DataLayer\bin\Debug\net6.0\CommonUtilities.dll
+F:\PearlSoft\GitHubProject\employeetimesheet\DataLayer\bin\Debug\net6.0\CommonUtilities.pdb
+F:\PearlSoft\GitHubProject\TimeSheetNew\DataLayer\bin\Debug\net6.0\DataLayer.deps.json
+F:\PearlSoft\GitHubProject\TimeSheetNew\DataLayer\bin\Debug\net6.0\DataLayer.dll
+F:\PearlSoft\GitHubProject\TimeSheetNew\DataLayer\bin\Debug\net6.0\DataLayer.pdb
+F:\PearlSoft\GitHubProject\TimeSheetNew\DataLayer\bin\Debug\net6.0\BusinessEntities.dll
+F:\PearlSoft\GitHubProject\TimeSheetNew\DataLayer\bin\Debug\net6.0\CommonUtilities.dll
+F:\PearlSoft\GitHubProject\TimeSheetNew\DataLayer\bin\Debug\net6.0\BusinessEntities.pdb
+F:\PearlSoft\GitHubProject\TimeSheetNew\DataLayer\bin\Debug\net6.0\CommonUtilities.pdb
+F:\PearlSoft\GitHubProject\TimeSheetNew\DataLayer\obj\Debug\net6.0\DataLayer.csproj.AssemblyReference.cache
+F:\PearlSoft\GitHubProject\TimeSheetNew\DataLayer\obj\Debug\net6.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\PearlSoft\GitHubProject\TimeSheetNew\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfoInputs.cache
+F:\PearlSoft\GitHubProject\TimeSheetNew\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfo.cs
+F:\PearlSoft\GitHubProject\TimeSheetNew\DataLayer\obj\Debug\net6.0\DataLayer.csproj.CoreCompileInputs.cache
+F:\PearlSoft\GitHubProject\TimeSheetNew\DataLayer\obj\Debug\net6.0\DataLayer.csproj.CopyComplete
+F:\PearlSoft\GitHubProject\TimeSheetNew\DataLayer\obj\Debug\net6.0\DataLayer.dll
+F:\PearlSoft\GitHubProject\TimeSheetNew\DataLayer\obj\Debug\net6.0\refint\DataLayer.dll
+F:\PearlSoft\GitHubProject\TimeSheetNew\DataLayer\obj\Debug\net6.0\DataLayer.pdb
+F:\PearlSoft\GitHubProject\TimeSheetNew\DataLayer\obj\Debug\net6.0\ref\DataLayer.dll
+F:\New folder (2)\New folder\DataLayer\obj\Debug\net6.0\DataLayer.csproj.AssemblyReference.cache
+F:\New folder (2)\New folder\DataLayer\obj\Debug\net6.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\New folder (2)\New folder\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfoInputs.cache
+F:\New folder (2)\New folder\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfo.cs
+F:\New folder (2)\New folder\DataLayer\obj\Debug\net6.0\DataLayer.csproj.CoreCompileInputs.cache
+F:\New folder (2)\New folder\DataLayer\obj\Debug\net6.0\DataLayer.dll
+F:\New folder (2)\New folder\DataLayer\obj\Debug\net6.0\refint\DataLayer.dll
+F:\New folder (2)\New folder\DataLayer\obj\Debug\net6.0\DataLayer.pdb
+F:\New folder (2)\New folder\DataLayer\bin\Debug\net6.0\DataLayer.deps.json
+F:\New folder (2)\New folder\DataLayer\bin\Debug\net6.0\DataLayer.dll
+F:\New folder (2)\New folder\DataLayer\bin\Debug\net6.0\DataLayer.pdb
+F:\New folder (2)\New folder\DataLayer\bin\Debug\net6.0\BusinessEntities.dll
+F:\New folder (2)\New folder\DataLayer\bin\Debug\net6.0\CommonUtilities.dll
+F:\New folder (2)\New folder\DataLayer\bin\Debug\net6.0\BusinessEntities.pdb
+F:\New folder (2)\New folder\DataLayer\bin\Debug\net6.0\CommonUtilities.pdb
+F:\New folder (2)\New folder\DataLayer\obj\Debug\net6.0\DataLayer.csproj.CopyComplete
+F:\New folder (2)\New folder\DataLayer\obj\Debug\net6.0\ref\DataLayer.dll

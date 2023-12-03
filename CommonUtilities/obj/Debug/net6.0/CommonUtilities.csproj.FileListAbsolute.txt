@@ -1,0 +1,36 @@
+F:\PearlSoft\GitHubProject\employeetimesheet\CommonUtilities\bin\Debug\net6.0\CommonUtilities.deps.json
+F:\PearlSoft\GitHubProject\employeetimesheet\CommonUtilities\bin\Debug\net6.0\CommonUtilities.dll
+F:\PearlSoft\GitHubProject\employeetimesheet\CommonUtilities\bin\Debug\net6.0\CommonUtilities.pdb
+F:\PearlSoft\GitHubProject\employeetimesheet\CommonUtilities\obj\Debug\net6.0\CommonUtilities.csproj.AssemblyReference.cache
+F:\PearlSoft\GitHubProject\employeetimesheet\CommonUtilities\obj\Debug\net6.0\CommonUtilities.GeneratedMSBuildEditorConfig.editorconfig
+F:\PearlSoft\GitHubProject\employeetimesheet\CommonUtilities\obj\Debug\net6.0\CommonUtilities.AssemblyInfoInputs.cache
+F:\PearlSoft\GitHubProject\employeetimesheet\CommonUtilities\obj\Debug\net6.0\CommonUtilities.AssemblyInfo.cs
+F:\PearlSoft\GitHubProject\employeetimesheet\CommonUtilities\obj\Debug\net6.0\CommonUtilities.csproj.CoreCompileInputs.cache
+F:\PearlSoft\GitHubProject\employeetimesheet\CommonUtilities\obj\Debug\net6.0\CommonUtilities.dll
+F:\PearlSoft\GitHubProject\employeetimesheet\CommonUtilities\obj\Debug\net6.0\refint\CommonUtilities.dll
+F:\PearlSoft\GitHubProject\employeetimesheet\CommonUtilities\obj\Debug\net6.0\CommonUtilities.pdb
+F:\PearlSoft\GitHubProject\employeetimesheet\CommonUtilities\obj\Debug\net6.0\ref\CommonUtilities.dll
+F:\PearlSoft\GitHubProject\TimeSheetNew\CommonUtilities\bin\Debug\net6.0\CommonUtilities.deps.json
+F:\PearlSoft\GitHubProject\TimeSheetNew\CommonUtilities\bin\Debug\net6.0\CommonUtilities.dll
+F:\PearlSoft\GitHubProject\TimeSheetNew\CommonUtilities\bin\Debug\net6.0\CommonUtilities.pdb
+F:\PearlSoft\GitHubProject\TimeSheetNew\CommonUtilities\obj\Debug\net6.0\CommonUtilities.csproj.AssemblyReference.cache
+F:\PearlSoft\GitHubProject\TimeSheetNew\CommonUtilities\obj\Debug\net6.0\CommonUtilities.GeneratedMSBuildEditorConfig.editorconfig
+F:\PearlSoft\GitHubProject\TimeSheetNew\CommonUtilities\obj\Debug\net6.0\CommonUtilities.AssemblyInfoInputs.cache
+F:\PearlSoft\GitHubProject\TimeSheetNew\CommonUtilities\obj\Debug\net6.0\CommonUtilities.AssemblyInfo.cs
+F:\PearlSoft\GitHubProject\TimeSheetNew\CommonUtilities\obj\Debug\net6.0\CommonUtilities.csproj.CoreCompileInputs.cache
+F:\PearlSoft\GitHubProject\TimeSheetNew\CommonUtilities\obj\Debug\net6.0\CommonUtilities.dll
+F:\PearlSoft\GitHubProject\TimeSheetNew\CommonUtilities\obj\Debug\net6.0\refint\CommonUtilities.dll
+F:\PearlSoft\GitHubProject\TimeSheetNew\CommonUtilities\obj\Debug\net6.0\CommonUtilities.pdb
+F:\PearlSoft\GitHubProject\TimeSheetNew\CommonUtilities\obj\Debug\net6.0\ref\CommonUtilities.dll
+F:\New folder (2)\New folder\CommonUtilities\bin\Debug\net6.0\CommonUtilities.deps.json
+F:\New folder (2)\New folder\CommonUtilities\bin\Debug\net6.0\CommonUtilities.dll
+F:\New folder (2)\New folder\CommonUtilities\bin\Debug\net6.0\CommonUtilities.pdb
+F:\New folder (2)\New folder\CommonUtilities\obj\Debug\net6.0\CommonUtilities.csproj.AssemblyReference.cache
+F:\New folder (2)\New folder\CommonUtilities\obj\Debug\net6.0\CommonUtilities.GeneratedMSBuildEditorConfig.editorconfig
+F:\New folder (2)\New folder\CommonUtilities\obj\Debug\net6.0\CommonUtilities.AssemblyInfoInputs.cache
+F:\New folder (2)\New folder\CommonUtilities\obj\Debug\net6.0\CommonUtilities.AssemblyInfo.cs
+F:\New folder (2)\New folder\CommonUtilities\obj\Debug\net6.0\CommonUtilities.csproj.CoreCompileInputs.cache
+F:\New folder (2)\New folder\CommonUtilities\obj\Debug\net6.0\CommonUtilities.dll
+F:\New folder (2)\New folder\CommonUtilities\obj\Debug\net6.0\refint\CommonUtilities.dll
+F:\New folder (2)\New folder\CommonUtilities\obj\Debug\net6.0\CommonUtilities.pdb
+F:\New folder (2)\New folder\CommonUtilities\obj\Debug\net6.0\ref\CommonUtilities.dll
